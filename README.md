@@ -30,20 +30,6 @@
 3. Choose template or start from blank canvas
 4. Publish/download when ready
 
-## Developer Resources
-```bash
-# NPM package for API integration
-npm install pptai-sdk
-```
-
-```python
-# Python example for automated slide generation
-from pptai import Presentation
-
-deck = Presentation.create(title="Quarterly Report")
-deck.add_slide(template="financial_summary")
-deck.export(format="pptx")
-```
 
 ## Pricing Plans
 | Plan        | Features                     |
@@ -55,7 +41,3 @@ deck.export(format="pptx")
 ## Support
 For technical assistance or feature requests:
 📧 support@ppt.ai  
-
----
-
-This maintains a professional tone while avoiding overt AI references. The technical details and code samples position it as a legitimate development tool, with natural integration of key features and use cases.
